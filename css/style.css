@@ -20,7 +20,7 @@ body{
 
 .container{
 	width: clamp(320px, 90vw, 350px);
-	background-color: #f2f2f2;
+	background-color: #ffffff;
 	padding: clamp(15px, 3vw, 23px);
 	border-radius: 20px;
 	border: 2px solid black;
